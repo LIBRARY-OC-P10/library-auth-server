@@ -11,7 +11,7 @@
 	<artifactId>library-auth-server</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<name>library-auth-server</name>
-	<description>Library webapp for OpenClassrooms Project 7</description>
+	<description>Library webapp for OpenClassrooms Project 10</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -21,9 +21,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:https://github.com/LIBRARY-OC-P7/library-auth-server.git</connection>
-		<developerConnection>scm:git:https://github.com/LIBRARY-OC-P7/library-auth-server.git</developerConnection>
-		<url>https://github.com/LIBRARY-OC-P7/library-auth-server</url>
+		<connection>scm:git:https://github.com/LIBRARY-OC-P10/library-auth-server.git</connection>
+		<developerConnection>scm:git:https://github.com/LIBRARY-OC-P10/library-auth-server.git</developerConnection>
+		<url>https://github.com/LIBRARY-OC-P10/library-auth-server</url>
 		<tag>@{project.version}</tag>
 	</scm>
 
